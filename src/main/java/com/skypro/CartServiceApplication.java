@@ -1,4 +1,4 @@
-package com.skypro.cartservice.cart;
+package com.skypro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
