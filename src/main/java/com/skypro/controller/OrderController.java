@@ -28,7 +28,7 @@ public class OrderController {
 
     @GetMapping("/get")
     public List<Integer> get (){
-        return this.cartService.getCartContent().stream().toList ();
+        return this.cartService.getCartContent();
     }
 
 }
